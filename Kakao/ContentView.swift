@@ -6,11 +6,11 @@
 //
 
 import SwiftUI
-import Kaka
+import Kakao
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello!")
             .padding()
     }
 }
